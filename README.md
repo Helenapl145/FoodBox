@@ -18,7 +18,7 @@ Projeto realizado para adquirir mais conhecimento no desenvolvimento web. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto foodBox" src="./arquivos/preview.png" width="100%">
+  <img alt="projeto foodBox" src="./imagens/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
